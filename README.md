@@ -6,11 +6,14 @@ It allows the user to type in anything. The file can be saved in any text format
 Prerequisites: Python2 installed
 
 For LINUX based operating systems:
-
-open terminal and type in the command 'bash run.sh' (without quotes).
+1> Download this repository
+2> Extract python_edito.zip
+3> Open python_editor-master folder
+4> Open terminal and navigate to this place, then type in the command 'bash run.sh' (without quotes).
 
 For Windows based operating systems:
-
-Open the editor.py file with IDLE
-Press F5 or click on Run > Run Module option.
+1> After downoading the zip, extract it
+2> Open python_editor-master folder
+3> Open the editor.py file with IDLE
+4> Press F5 or click on Run > Run Module option.
 
