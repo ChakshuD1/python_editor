@@ -14,6 +14,5 @@ For LINUX based operating systems:
 For Windows based operating systems:
 1> After downoading the zip, extract it
 2> Open python_editor-master folder
-3> Open the editor.py file with IDLE
-4> Press F5 or click on Run > Run Module option.
+3> Double click on editor.py
 
